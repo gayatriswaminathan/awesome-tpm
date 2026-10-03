@@ -66,6 +66,7 @@ The core of the job, and the concepts worth mastering:
 - **Notion** — flexible docs, wikis, and lightweight tracking. [notion.so](https://www.notion.so)
 - **Miro** — whiteboarding, dependency mapping, planning. [miro.com](https://miro.com)
 - **Smartsheet** — spreadsheet-style program tracking. [smartsheet.com](https://www.smartsheet.com)
+- **Tale** — open-source project workspace to assign tasks to teammates and AI agents, then review their deliverables together. [tale.dev](https://tale.dev)
 
 ## Books
 
